@@ -15,11 +15,9 @@ export function Logo({ className }: LogoProps) {
       </span>
       <span className="flex flex-col">
         <span className="font-heading text-sm font-semibold tracking-[0.24em] text-muted-foreground uppercase">
-          Opportunity Index
+          Launchboard
         </span>
-        <span className="text-sm text-foreground/80">
-          Discover your next unfair advantage
-        </span>
+        <span className="text-sm text-foreground/80">Where ambitious people find momentum</span>
       </span>
     </Link>
   );

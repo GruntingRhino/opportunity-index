@@ -10,7 +10,7 @@ export function SiteFooter() {
         <div className="space-y-4">
           <Logo />
           <p className="max-w-sm text-sm text-muted-foreground">
-            Opportunity Index centralizes internships, scholarships, research,
+            Launchboard centralizes internships, scholarships, research,
             hackathons, jobs, and community programs into one high-signal
             discovery and application workflow.
           </p>

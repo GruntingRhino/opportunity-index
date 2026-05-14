@@ -27,14 +27,14 @@ export default function HomePage() {
           <MotionReveal className="space-y-8">
             <Badge className="rounded-full px-4 py-2 text-sm">
               <Stars className="mr-2 size-4" />
-              Gen Z-native opportunity discovery infrastructure
+              Modern platform for internships, scholarships, and career pathways
             </Badge>
             <div className="space-y-6">
               <h1 className="font-heading max-w-3xl text-5xl font-semibold tracking-tight sm:text-6xl lg:text-7xl">
                 Stop treating student opportunity discovery like a spreadsheet graveyard.
               </h1>
               <p className="max-w-2xl text-lg leading-8 text-muted-foreground sm:text-xl">
-                Opportunity Index is a unified marketplace for internships, scholarships,
+                Launchboard is a unified marketplace for internships, scholarships,
                 fellowships, research, jobs, hackathons, volunteering, mentorship, and
                 community programs. Students get clarity. Organizations get signal.
               </p>

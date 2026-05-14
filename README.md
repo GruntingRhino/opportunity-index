@@ -1,6 +1,6 @@
-# Opportunity Index
+# Launchboard
 
-Opportunity Index is a web-first opportunity marketplace for students, young professionals, schools, nonprofits, startups, and recruiting organizations. The current implementation is a polished Next.js 16 foundation with production-oriented UI architecture, mock marketplace data, and a Supabase-ready relational schema.
+Launchboard is a web-first opportunity marketplace for students, young professionals, schools, nonprofits, startups, and recruiting organizations. The current implementation is a polished Next.js 16 foundation with production-oriented UI architecture, mock marketplace data, and a Supabase-ready relational schema.
 
 ## Stack
 

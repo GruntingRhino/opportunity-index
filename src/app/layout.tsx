@@ -23,7 +23,7 @@ const sora = Sora({
 });
 
 export const metadata: Metadata = {
-  title: "Opportunity Index",
+  title: "Launchboard",
   description:
     "A production-grade opportunity marketplace for students, organizations, and young professionals.",
 };
